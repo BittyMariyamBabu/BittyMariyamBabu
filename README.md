@@ -19,6 +19,7 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Animations-FF4081?style=for-the-badge&logoColor=white" alt="Animations">
   <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge&logoColor=white" alt="Provider">
   <img src="https://img.shields.io/badge/BLoC-FF4081?style=for-the-badge&logoColor=white" alt="BLoC">
