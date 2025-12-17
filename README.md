@@ -116,7 +116,6 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
   <img src="https://img.shields.io/badge/📱_10%2B_Mobile_Apps_Developed-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" alt="10+ Apps">
   <img src="https://img.shields.io/badge/🚀_Production_Ready_Apps-2196F3?style=for-the-badge&logo=google-play&logoColor=white" alt="Production Apps">
   <img src="https://img.shields.io/badge/⚡_Cross_Platform_Expert-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Expert">
-  <img src="https://img.shields.io/badge/Junior_Developer_Mentor-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Mentor">
 </p>
 
 ### Highlights
