@@ -23,6 +23,8 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
   <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge&logoColor=white" alt="Provider">
   <img src="https://img.shields.io/badge/BLoC-FF4081?style=for-the-badge&logoColor=white" alt="BLoC">
   <img src="https://img.shields.io/badge/Riverpod-4A148C?style=for-the-badge&logoColor=white" alt="Riverpod">
+  <img
+src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Getx">
 </p>
 
 ### Backend & APIs
