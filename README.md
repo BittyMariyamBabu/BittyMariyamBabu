@@ -43,7 +43,7 @@ src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutte
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/CI/CD-4CAF50?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Actions">
+  <img src="https://img.shields.io/badge/Github Actions-4CAF50?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Actions">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Postman">
 </p>
 
