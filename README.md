@@ -41,7 +41,13 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/CI/CD-4CAF50?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/CI/CD-4CAF50?style=for-the-badge&logo=gitlab&logoColor=white" alt="Github Actions">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Postman">
+</p>
+
+### Project Management
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Jira">
 </p>
 
 ### Other
