@@ -15,25 +15,44 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 
 ## 🛠️ Skills
 
-**Flutter & Dart:**  
-- Flutter widgets & animations  
-- State management: Provider, BLoC, Riverpod  
-- Responsive & adaptive UI design  
+### Flutter & Dart
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Animations-FF4081?style=for-the-badge&logoColor=white" alt="Animations">
+  <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge&logoColor=white" alt="Provider">
+  <img src="https://img.shields.io/badge/BLoC-FF4081?style=for-the-badge&logoColor=white" alt="BLoC">
+  <img src="https://img.shields.io/badge/Riverpod-4A148C?style=for-the-badge&logoColor=white" alt="Riverpod">
+</p>
 
-**Backend & APIs:**  
-- RESTful API integration  
-- Firebase Firestore & Authentication  
-- Push notifications, cloud functions  
+### Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore">
+  <img src="https://img.shields.io/badge/Push_Notifications-0288D1?style=for-the-badge&logoColor=white" alt="Push Notifications">
+  <img src="https://img.shields.io/badge/Cloud_Functions-0288D1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Functions">
+</p>
 
-**Tools & Platforms:**  
-- Git, GitHub, GitLab  
-- VS Code & Android Studio  
-- CI/CD pipelines for app deployment  
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/CI/CD-4CAF50?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD">
+</p>
 
-**Other:**  
-- JSON parsing & model generation  
-- Version control & code documentation  
-- Testing & debugging  
+### Other
+<p align="left">
+  <img src="https://img.shields.io/badge/JSON-0052CC?style=for-the-badge&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Version_Control-0288D1?style=for-the-badge&logo=git&logoColor=white" alt="Version Control">
+  <img src="https://img.shields.io/badge/Code_Documentation-FFC107?style=for-the-badge&logoColor=white" alt="Documentation">
+  <img src="https://img.shields.io/badge/Testing-673AB7?style=for-the-badge&logoColor=white" alt="Testing">
+  <img src="https://img.shields.io/badge/Debugging-FF5722?style=for-the-badge&logoColor=white" alt="Debugging">
+</p>
+ 
 
 ---
 
