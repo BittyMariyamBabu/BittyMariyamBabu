@@ -100,6 +100,23 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
 
 ---
 
+## 🏆 Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📱_10%2B_Mobile_Apps_Developed-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" alt="10+ Apps">
+  <img src="https://img.shields.io/badge/🚀_Production_Ready_Apps-2196F3?style=for-the-badge&logo=google-play&logoColor=white" alt="Production Apps">
+  <img src="https://img.shields.io/badge/⚡_Cross_Platform_Expert-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Expert">
+</p>
+
+### Highlights
+- 📱 **Developed and delivered 10+ mobile applications** using Flutter for Android & iOS  
+- 🚀 Successfully published **production-ready apps** on Google Play Store  
+- 🧩 Built apps using **clean architecture, reusable components, and scalable code**  
+- 🎨 Created **beautiful UI/UX designs** with responsive and adaptive layouts  
+- 🤝 Collaborated with designers, backend teams, and QA to deliver high-quality products 
+
+---
+
 ## 📫 Contact Me
 <p align="left">
   <a href="mailto:bittymariyambabu@gmail.com" target="_blank">
