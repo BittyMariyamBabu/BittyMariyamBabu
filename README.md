@@ -66,7 +66,9 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 ## 📂 Experience
 
 **Senior Software Developer** | @ Weberfox Technologies
+
 October 2022 - March 2025 | Ernakulam, India
+
 📅 **2 Years 6 Months**  
 
 - Developed and maintained **high-quality Flutter applications** for Android and iOS  
