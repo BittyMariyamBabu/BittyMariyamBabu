@@ -23,8 +23,7 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
   <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge&logoColor=white" alt="Provider">
   <img src="https://img.shields.io/badge/BLoC-FF4081?style=for-the-badge&logoColor=white" alt="BLoC">
   <img src="https://img.shields.io/badge/Riverpod-4A148C?style=for-the-badge&logoColor=white" alt="Riverpod">
-  <img
-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Getx">
+  <img src="https://img.shields.io/badge/Getx-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Getx">
 </p>
 
 ### Backend & APIs
@@ -56,7 +55,7 @@ src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutte
 <p align="left">
   <img src="https://img.shields.io/badge/JSON-0052CC?style=for-the-badge&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/Version_Control-0288D1?style=for-the-badge&logo=git&logoColor=white" alt="Version Control">
-  <img src="https://img.shields.io/badge/Code_Documentation-FFC107?style=for-the-badge&logoColor=white" alt="Documentation">
+  <img src="https://img.shields.io/badge/Documentation-FFC107?style=for-the-badge&logoColor=white" alt="Documentation">
   <img src="https://img.shields.io/badge/Testing-673AB7?style=for-the-badge&logoColor=white" alt="Testing">
   <img src="https://img.shields.io/badge/Debugging-FF5722?style=for-the-badge&logoColor=white" alt="Debugging">
 </p>
@@ -87,13 +86,13 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
 
 ## 🚀 Projects
 
-- **HeroScoop(#)** – A full-featured **cross-platform social media application** built with Flutter.  
+- **HeroScoop** – A full-featured **cross-platform social media application** built with Flutter.  
   Features include user authentication, real-time chat, post feeds, likes & comments, notifications, and responsive UI.  
 
-- **Cavzon(#)** – A **job portal application** connecting job seekers and employers.  
+- **Cavzon** – A **job portal application** connecting job seekers and employers.  
   Built with Flutter & Firebase, it includes job listing, application submission, resume upload, profile management, and push notifications.  
 
-- **Food App(#)** – A **food ordering and delivery app** with Flutter and Firebase.  
+- **Food App** – A **food ordering and delivery app** with Flutter and Firebase.  
   Includes restaurant listing, menu selection, cart & checkout, order tracking, and payment integration, designed with a smooth and intuitive UI.
 
 
