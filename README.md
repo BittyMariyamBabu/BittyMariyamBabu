@@ -6,7 +6,7 @@
 ## 🌟 About Me
 I am a **passionate Flutter developer** with **2 years and 6 months of hands-on experience** in building **beautiful, high-performance, and user-friendly mobile applications**. I love transforming **creative ideas into sleek, responsive apps** that provide amazing user experiences on both Android and iOS platforms.
 
-- 💻 **Technologies I work with:** Flutter, Dart, Firebase, REST APIs, SQLite, Provider, BLoC  
+- 💻 **Technologies I work with:** Flutter, Dart, Firebase, REST APIs, Provider, BLoC, Getx, Riverpod 
 - 📱 **Specialization:** Cross-platform mobile app development with clean architecture  
 - 🎨 **Passion:** Creating **intuitive UI/UX designs** and **smooth animations**  
 - 🚀 **Goal:** To develop apps that **solve real-world problems** and delight users  
