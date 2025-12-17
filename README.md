@@ -64,13 +64,22 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 
 ---
 
+### 🌱 Currently Exploring
+
+
+- 📱 **Kotlin** – Exploring native Android app development and platform-specific integrations.  
+- 🌐 **FastAPI** – Learning to build high-performance REST APIs for mobile and web applications.  
+- 💻 **Flutter Web & Desktop** – Experimenting with cross-platform UI beyond mobile.  
+- 🐍 **Python** – Actively learning Python for backend development and data processing.
+- 🚀 Open to **freelancing opportunities**, short-term and long-term projects  = 
+- 🤝 Available for **remote, hybrid, or on-site opportunities**
+
+---
+
 ## 📂 Experience
 
-**Senior Software Developer** | @ Weberfox Technologies
-
-October 2022 - March 2025 | Ernakulam, India
-
-📅 **2 Years 6 Months**  
+**Senior Software Developer | @ Weberfox Technologies** 
+🗓️ October 2022 - March 2025 | Ernakulam, India 
 
 - Developed and maintained **high-quality Flutter applications** for Android and iOS  
 - Implemented **clean architecture**, modular code, and reusable widgets  
