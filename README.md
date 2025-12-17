@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bitty Mariyam Babu
+# Hi👋, I'm Bitty Mariyam Babu
 ### Flutter Developer | Mobile App Enthusiast | Cross-Platform Creator  
 
 ---
@@ -39,14 +39,15 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 
 ## 📂 Experience
 
-**Flutter Developer** | [Company Name]  
+**Senior Software Developer** | @ Weberfox Technologies
+October 2022 - March 2025 | Ernakulam, India
 📅 **2 Years 6 Months**  
 
 - Developed and maintained **high-quality Flutter applications** for Android and iOS  
 - Implemented **clean architecture**, modular code, and reusable widgets  
 - Integrated **third-party APIs and Firebase services**  
 - Delivered apps with **smooth animations, responsive layouts, and excellent performance**  
-- Worked in a **team environment**, collaborating with designers, backend developers, and QA  
+
 
 ---
 
@@ -58,9 +59,16 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
 ---
 
 ## 🚀 Projects
-- [Project 1 Name](link) – Short description of what it does  
-- [Project 2 Name](link) – Short description of what it does  
-- [Project 3 Name](link) – Short description of what it does  
+
+- **HeroScoop(#)** – A full-featured **cross-platform social media application** built with Flutter.  
+  Features include user authentication, real-time chat, post feeds, likes & comments, notifications, and responsive UI.  
+
+- **Cavzon(#)** – A **job portal application** connecting job seekers and employers.  
+  Built with Flutter & Firebase, it includes job listing, application submission, resume upload, profile management, and push notifications.  
+
+- **Food App(#)** – A **food ordering and delivery app** with Flutter and Firebase.  
+  Includes restaurant listing, menu selection, cart & checkout, order tracking, and payment integration, designed with a smooth and intuitive UI.
+
 
 ---
 
@@ -78,3 +86,4 @@ I enjoy **experimenting with animations, UI tricks, and building mini-projects**
 
 ### Thank you for visiting my profile! 💙  
 Let’s build **awesome apps together**.  
+
