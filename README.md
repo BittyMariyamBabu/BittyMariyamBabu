@@ -49,7 +49,7 @@ src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutte
 
 ### Project Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Jira-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Jira">
 </p>
 
 ### Other
