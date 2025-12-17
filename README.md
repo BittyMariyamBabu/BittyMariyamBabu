@@ -23,7 +23,7 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
   <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge&logoColor=white" alt="Provider">
   <img src="https://img.shields.io/badge/BLoC-FF4081?style=for-the-badge&logoColor=white" alt="BLoC">
   <img src="https://img.shields.io/badge/Riverpod-4A148C?style=for-the-badge&logoColor=white" alt="Riverpod">
-  <img src="https://img.shields.io/badge/Getx-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Getx">
+  <img src="https://img.shields.io/badge/Getx-02569B?style=for-the-badge&logoColor=white" alt="Getx">
 </p>
 
 ### Backend & APIs
@@ -48,7 +48,7 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 
 ### Project Management
 <p align="left">
-  <img src="https://img.shields.io/badge/Jira-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Jira-F05032?style=for-the-badge&logoColor=white" alt="Jira">
 </p>
 
 ### Other
