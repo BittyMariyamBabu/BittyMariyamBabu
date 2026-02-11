@@ -92,8 +92,8 @@ I am a **passionate Flutter developer** with **3+ years of hands-on experience**
 **Freelance Flutter Developer & UI/UX Designer** 
 🗓️ November 2025 - Present | India 
 
-- Providing **freelance UI/UX design in Figma**, interactive prototyping, and **Flutter development for Android and iOS apps**.
-- Design and refine app workflows, interfaces, and responsive layouts for intuitive user experiences.
+- Providing **freelance UI/UX design in Figma, interactive prototyping** and **Flutter development for Android and iOS apps for the Pentecostal Matrimony mobile application**.
+- Design and refine **app workflows, interfaces and responsive layouts** for intuitive user experiences.
 - Perform **bug fixes, feature updates and post-launch maintenance** to ensure stable and high-quality apps.
 
 **Senior Software Developer | @ Weberfox Technologies** 
@@ -137,7 +137,7 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
 </p>
 
 ### Highlights
-- 📱 **Developed and delivered 10+ mobile applications** using Flutter for Android & iOS  
+- 📱 **Developed 10+ mobile applications** using Flutter for Android & iOS  
 - 🚀 Successfully published **production-ready apps** on Google Play Store and Apple Store
 - 🧩 Built apps using **clean architecture,mvvm, mvc, reusable components, and scalable code**  
 - 🎨 Created **beautiful UI/UX designs** with responsive and adaptive layouts  
