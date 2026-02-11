@@ -1,13 +1,13 @@
 # Hi👋, I'm Bitty Mariyam Babu
-### Flutter Developer | Mobile App Enthusiast | Cross-Platform Creator  
+### Flutter Developer | UI/UX Designer | Mobile App Enthusiast | Cross-Platform Creator 
 
 ---
 
 ## 🌟 About Me
-I am a **passionate Flutter developer** with **2 years and 6 months of hands-on experience** in building **beautiful, high-performance, and user-friendly mobile applications**. I love transforming **creative ideas into sleek, responsive apps** that provide amazing user experiences on both Android and iOS platforms.
+I am a **passionate Flutter developer** with **3+ years of hands-on experience** in building **beautiful, high-performance, and user-friendly mobile applications**. I love transforming **creative ideas into sleek, responsive apps**, backed by strong **UI/UX design thinking and design case experience**, to deliver seamless user experiences on both Android and iOS platforms.
 
-- 💻 **Technologies I work with:** Flutter, Dart, Firebase, REST APIs, Provider, BLoC, Getx, Riverpod 
-- 📱 **Specialization:** Cross-platform mobile app development with clean architecture  
+- 💻 **Technologies I work with:** Flutter, Dart, Firebase, REST APIs, Provider, BLoC, Getx, Riverpod and UI/UX design using Figma
+- 📱 **Specialization:** Cross-platform mobile app development with clean architecture, MVVM and MVC patterns 
 - 🎨 **Passion:** Creating **intuitive UI/UX designs** and **smooth animations**  
 - 🚀 **Goal:** To develop apps that **solve real-world problems** and delight users  
 
@@ -77,6 +77,12 @@ I am a **passionate Flutter developer** with **2 years and 6 months of hands-on 
 ---
 
 ## 📂 Experience
+**Freelance Flutter Developer & UI/UX Designer** 
+🗓️ November 2025 - Present | India 
+
+- Providing **freelance UI/UX design in Figma**, interactive prototyping, and **Flutter development for Android and iOS apps**.
+- Design and refine app workflows, interfaces, and responsive layouts for intuitive user experiences.
+- Perform **bug fixes, feature updates and post-launch maintenance** to ensure stable and high-quality apps.
 
 **Senior Software Developer | @ Weberfox Technologies** 
 🗓️ October 2022 - March 2025 | Ernakulam, India 
@@ -120,8 +126,8 @@ I believe **apps should not only work flawlessly but also feel delightful**. Eve
 
 ### Highlights
 - 📱 **Developed and delivered 10+ mobile applications** using Flutter for Android & iOS  
-- 🚀 Successfully published **production-ready apps** on Google Play Store  
-- 🧩 Built apps using **clean architecture, reusable components, and scalable code**  
+- 🚀 Successfully published **production-ready apps** on Google Play Store and Apple Store
+- 🧩 Built apps using **clean architecture,mvvm, mvc, reusable components, and scalable code**  
 - 🎨 Created **beautiful UI/UX designs** with responsive and adaptive layouts  
 - 🤝 Collaborated with designers, backend teams, and QA to deliver high-quality products 
 
