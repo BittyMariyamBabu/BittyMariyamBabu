@@ -36,6 +36,18 @@ I am a **passionate Flutter developer** with **3+ years of hands-on experience**
   <img src="https://img.shields.io/badge/Cloud_Functions-0288D1?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Functions">
 </p>
 
+### 🎨 UI/UX & Design Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Prototyping-00BFFF?style=for-the-badge&logo=invision&logoColor=white" alt="Prototyping">
+  <img src="https://img.shields.io/badge/Wireframing-FF6F61?style=for-the-badge&logo=sketch&logoColor=white" alt="Wireframing">
+  <img src="https://img.shields.io/badge/Design_Guidelines-8A2BE2?style=for-the-badge&logo=adobe&logoColor=white" alt="Design Guidelines">
+  <img src="https://img.shields.io/badge/User-Centered_Design-32CD32?style=for-the-badge&logo=figma&logoColor=white" alt="User-Centered Design">
+  <img src="https://img.shields.io/badge/Visual_Design-FFD700?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Visual Design">
+  <img src="https://img.shields.io/badge/Responsive-1E90FF?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design">
+</p>
+
 ### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -71,7 +83,7 @@ I am a **passionate Flutter developer** with **3+ years of hands-on experience**
 - 🌐 **FastAPI** – Learning to build high-performance REST APIs for mobile and web applications.  
 - 💻 **Flutter Web & Desktop** – Experimenting with cross-platform UI beyond mobile.  
 - 🐍 **Python** – Actively learning Python for backend development and data processing.
-- 🚀 Open to **freelancing opportunities**, short-term and long-term projects  = 
+- 🚀 Open to **freelancing opportunities**, short-term and long-term projects.
 - 🤝 Available for **remote, hybrid, or on-site opportunities**
 
 ---
