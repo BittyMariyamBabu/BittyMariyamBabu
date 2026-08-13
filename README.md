@@ -90,7 +90,7 @@ I am a **passionate Flutter developer** with **3+ years of hands-on experience**
 
 ## 📂 Experience
 **Freelance Flutter Developer & UI/UX Designer** 
-🗓️ November 2025 - Present | India 
+🗓️ December 2025 - May 2026 | India 
 
 - Providing **freelance UI/UX design in Figma, interactive prototyping** and **Flutter development for Android and iOS apps for the Pentecostal Matrimony mobile application**.
 - Design and refine **app workflows, interfaces and responsive layouts** for intuitive user experiences.
